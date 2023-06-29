@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working in a startup producing PDC bits for oil and gas companies
-- 🏔️ I took a test engineer course at Yandex Practicum and I want to to help people use quality products
+- 🏔️ I took a test engineer course at Yandex Praktikum and I want to to help people use quality products
 - 📫 How to reach me: segunfai@mail.ru or https://t.me/Segunfai
 - 🌏 I speak Russian (native), English (B2)
 - 💻 There will be my own samples of various checklists, test cases applied to different services.
