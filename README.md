@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Yuriy</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="34"/></h1>
-<h3 align="center">I want to work in QA and learning everyday to get better in this field 🇷🇺</h3>
+<h3 align="center">I want to work in QA and learning everyday to get better 🇷🇺</h3>
 
 
 - 🔭 I’m currently working in a startup producing PDC bits for oil and gas companies
