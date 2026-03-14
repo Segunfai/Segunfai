@@ -8,6 +8,6 @@
 - 📫 How to reach me: segunfai111@yandex.ru or https://t.me/Segunfai
 - 🌏 I speak Russian (native), English (B2)
 - 💻 There will be my own samples of various checklists, test cases applied to different services.
-  And also there are attempts to automate testing on js and python.
+  And also there are attempts to automate testing on Java or js. Maybe python next one.
   As I learn programming languages, new files will appear here.
   I would appreciate any advice, thanks
